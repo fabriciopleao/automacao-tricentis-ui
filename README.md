@@ -17,7 +17,7 @@ JDK e Maven
 ## Como executar
 1. Clone este repositório em sua máquina local
 2. Abra o projeto em uma IDE ou no Terminal
-3. Execute o comando abaixo (executar pelo terminal)
+3. Execute o comando abaixo
 
 Executar os testes pelo terminal
 
