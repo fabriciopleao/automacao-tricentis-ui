@@ -1,5 +1,5 @@
 # automacao-tricentis-ui
-Projeto de automação de teste UI utlizando a linguagem Java, a fim de validar e garantir a qualidade das funcionalidades através de testes regressivos o site Tricentis onde apresenta serviço de seguro veicular.
+Projeto de automação de teste UI utilizando a linguagem Java, a fim de validar e garantir a qualidade das funcionalidades através de testes regressivos o site Tricentis onde apresenta serviço de seguro veicular.
 
 ## Tecnologias utilizadas no projeto:
 
